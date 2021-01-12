@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/fed-govt-ministries/static/css/main.57e88422.chunk.css",
-    "main.js": "/fed-govt-ministries/static/js/main.48e31ff4.chunk.js",
-    "main.js.map": "/fed-govt-ministries/static/js/main.48e31ff4.chunk.js.map",
+    "main.js": "/fed-govt-ministries/static/js/main.ace526b7.chunk.js",
+    "main.js.map": "/fed-govt-ministries/static/js/main.ace526b7.chunk.js.map",
     "runtime-main.js": "/fed-govt-ministries/static/js/runtime-main.d7ba8852.js",
     "runtime-main.js.map": "/fed-govt-ministries/static/js/runtime-main.d7ba8852.js.map",
     "static/css/2.31461e4f.chunk.css": "/fed-govt-ministries/static/css/2.31461e4f.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.31461e4f.chunk.css",
     "static/js/2.199f5c19.chunk.js",
     "static/css/main.57e88422.chunk.css",
-    "static/js/main.48e31ff4.chunk.js"
+    "static/js/main.ace526b7.chunk.js"
   ]
 }
