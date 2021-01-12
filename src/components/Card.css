@@ -1,0 +1,13 @@
+.test {
+    display: flex;
+    flex-direction: row;
+
+  }
+  .pic {
+    margin-top: 10px;
+    margin-right: 10px;
+    width: 80px;
+    height: 40px;
+    border-left: 3px solid black;
+  }
+  
