@@ -4,7 +4,7 @@ import { Data } from "./components/Data";
 const App = ()=> {
   return (
     <div>
-      <h1 className="tc">MINIISTRIES AND FEDERAL PARASTATALS</h1>
+      <h1 className="tc">MINISTRIES AND FEDERAL PARASTATALS</h1>
       <CardList Data={Data}/>
     </div>
   );
